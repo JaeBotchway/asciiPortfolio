@@ -1,0 +1,15 @@
+1. git checkout HEAD portrait.txt
+
+2. git add portrait.txt
+
+3. git commit -m 'added eyebrows'
+
+4. git add .
+
+5. git commit -m ' corrected dates'
+
+6. git add .
+
+7. git reset HEAD -- house.txt
+
+8. git commit -m 'final commit'
